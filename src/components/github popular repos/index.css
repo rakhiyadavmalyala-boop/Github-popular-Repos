@@ -1,0 +1,24 @@
+.heading {
+    font-family: 'Lobster';
+    color: #0f172a;
+    text-align: center;
+}
+
+.language-filters {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.repos-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.failure-view {
+    text-align: center;
+}
